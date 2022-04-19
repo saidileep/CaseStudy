@@ -34,5 +34,5 @@ Assuming that the `$SPARK_HOME` environment variable points to your local Spark 
 $SPARK_HOME/bin/spark-submit \
 --master local[*] \
 --files configs/params.json \
-jobs/process_data.py
+src/process_data.py
 ```
