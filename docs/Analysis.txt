@@ -1,0 +1,11 @@
+Process followed:
+
+1. Check for data quality. Duplicates in data and noticed values like NA/ Unknown/None which mean the same.
+
+2. Understand granularity of each of the datasets provided. Analysed on a notebook to explore the data and understand at what level each dataset is unique
+
+3. Figured out the relations between datasets to make sure data doesnt get duplicated during joins.
+
+4. In the interest of time, havent cleaned the data much other than de-duplicating. Made some assumptions on some requirements and moved forward with the development.
+
+5. All the code is first developed on databricks notebook and then modularized using code repository structure. Attached the html file from execution in the docs folder for reference.

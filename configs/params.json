@@ -1,0 +1,22 @@
+{
+  "InputFiles": {
+    "Units": "/Users/saidileep/Downloads/BCG/InputFiles/Unit_use.csv",
+    "Charges": "/Users/saidileep/Downloads/BCG/InputFiles/Charges_use.csv",
+    "Damages": "/Users/saidileep/Downloads/BCG/InputFiles/Damages_use.csv",
+    "Persons": "/Users/saidileep/Downloads/BCG/InputFiles/Primary_Person_use.csv",
+    "Restrict": "/Users/saidileep/Downloads/BCG/InputFiles/Restrict_use.csv",
+    "Endorse": "/Users/saidileep/Downloads/BCG/InputFiles/Endorse_use.csv"
+  },
+  "OutputFiles": {
+    "Q1": "/Users/saidileep/Downloads/BCG/OutputFiles/Q1",
+    "Q2": "/Users/saidileep/Downloads/BCG/OutputFiles/Q2",
+    "Q3": "/Users/saidileep/Downloads/BCG/OutputFiles/Q3",
+    "Q4": "/Users/saidileep/Downloads/BCG/OutputFiles/Q4",
+    "Q5": "/Users/saidileep/Downloads/BCG/OutputFiles/Q5",
+    "Q6": "/Users/saidileep/Downloads/BCG/OutputFiles/Q6",
+    "Q7": "/Users/saidileep/Downloads/BCG/OutputFiles/Q7",
+    "Q8": "/Users/saidileep/Downloads/BCG/OutputFiles/Q8"
+  },
+  "TopStatesN": 25,
+  "TopColorsN": 10
+}
